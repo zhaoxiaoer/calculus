@@ -106,3 +106,4 @@ venv.bak/
 # zqh add
 .project
 .pydevproject
+.settings
